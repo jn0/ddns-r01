@@ -1,0 +1,5 @@
+user:     'testreseller'
+password: 'testreseller'
+domain:   'example.com'
+pong:     'http://ifconfig.co/ip'
+# vim:set ft=yaml ai et ts=2 sts=2 sw=2:EOF #
